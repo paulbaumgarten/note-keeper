@@ -7,7 +7,6 @@ import axios from 'axios';
 // Project imports
 import { ReactComponent as AddIcon } from '../icons/add-circle-outline.svg';
 import { ReactComponent as FolderIcon } from '../icons/folder-open-outline.svg';
-import axios from 'axios';
 
 function FolderListItem({item, setFolder, setSideBarVisibility}) {
     return (
